@@ -14,7 +14,7 @@
 
 </div>
 ![iMAGE](https://github.com/89Aman/SkillSnap/blob/main/image.png)
----
+
 
 ## 🌌 The "Antigravity" Theme
 
